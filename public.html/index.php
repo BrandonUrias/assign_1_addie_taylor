@@ -13,7 +13,7 @@
 
   <body>
    
-  	<?php include 'navigation.php'; ?>
+  	<?php include '../resources/navigation.php'; ?>
 
      <div class="below_menu_container">
      
@@ -64,7 +64,7 @@
         
     </div>
 
-      <?php include 'footer.php'; ?>
+      <?php include '../resources/footer.php'; ?>
 
 
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
