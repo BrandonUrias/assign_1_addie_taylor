@@ -13,7 +13,7 @@
             <!-- Title on nav bar -->
             <a class="navbar-brand active" href='index.html'>Home</a>
           </div>
-
+ 
           <div id="navbar" class="collapse navbar-collapse">
            <ul class="nav navbar-nav">        
              <li><a href='login.php'>Login</a></li>
